@@ -24,45 +24,45 @@ Chinese version with [MLEveryday](https://github.com/MLEveryday/100-Days-Of-ML-C
 
 ## Simple Linear Regression | Day 2
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%202.png">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day2/Day%202.png">
 </p>
 
 ## Multiple Linear Regression | Day 3
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%203.png">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day3/Day%203.png">
 </p>
 
 ## Logistic Regression | Day 4
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%204.jpg">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day4-6/Day%204.jpg">
 </p>
 
 ## K Nearest Neighbours(K-NN) | Day 7
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%207.jpg">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day7/Day%207.jpg">
 </p>
 
 ## Support Vector Machines(SVM) | Day 12
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%2012.jpg">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day9-14/Day%2012.jpg">
 </p>
 
 ## Decision Trees | Day 23
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%2023.png">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day23-25/Day%2023.png">
 </p>
 
 ## Random Forests | Day 33
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%2033.png">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day33-34/Day%2033.png">
 </p>
 
 ## K Means Clustering | Day 43
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%2043.png">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day43/Day%2043.png">
 </p>
 
 ## Hierarchical Clustering | Day 54
 <p align="center">
-  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day1/Day%2054.jpg">
+  <img src="https://github.com/Gojay001/MachineLearning-100days/blob/master/day54/Day%2054.jpg">
 </p>
